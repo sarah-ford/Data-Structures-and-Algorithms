@@ -1,0 +1,6 @@
+This folder contains three implementations of StringStack.
+
+To compile: javac *.java
+To run the evaluator for arithmetic expression: java Evaluate < data.txt
+
+You are free to edit the data.txt. 

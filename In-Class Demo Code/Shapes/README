@@ -1,0 +1,20 @@
+file: README.txt
+author: Ziyuan Meng 
+date:Sep 11, 2017
+
+CS1102 Computer Science II
+Fall 2017
+
+Week 3
+
+This folder contains elementary sample code with implementations
+of an ADT for Points and an ADT for Circles. The folder also 
+contains the interface for Lines.  This material was
+presented in week 3.
+
+To compile and run:
+
+> javac *.java
+> java CircleC
+
+
