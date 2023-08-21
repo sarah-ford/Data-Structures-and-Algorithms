@@ -1,0 +1,5 @@
+Please, complete the Reverse() method in LinkedQueue.java. The method returns a new
+instance of Queue which stores all the elements of the current Queue instance with
+a reversed order.
+To compile: javac *.java
+To run: java LinkedQueue
